@@ -63,6 +63,9 @@ class KalmanFilter {
 
   // measurement covariance matrix
   Eigen::MatrixXd R_;
+
+  // the equations that map the predicted location from Cartesian coordinates to polar coordinates:
+  Eigen::VectorXd h_x_;
 };
 
 #endif // KALMAN_FILTER_H_
