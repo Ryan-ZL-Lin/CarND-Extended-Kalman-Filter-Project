@@ -11,8 +11,8 @@ the program can be built and run by doing the following from the project top dir
 
 [//]: # (Image References)
 
-[image1]: ./img/Dataset1_RMSE.png.jpg "Dataset1"
-[image2]: ./img/Dataset2_RMSE.png.jpg "Dataset2"
+[image1]: ./img/Dataset1_RMSE.png "Dataset1"
+[image2]: ./img/Dataset2_RMSE.png "Dataset2"
 
 ## RMSE result - Dataset1
 
